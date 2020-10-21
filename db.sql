@@ -11,14 +11,3 @@ create user 'puscd'@'localhost' IDENTIFIED BY '';
 GRANT ALL ON puscd.* TO 'puscd'@'localhost';
 FLUSH PRIVILEGES;
 use user;
-
-$2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y
-
-souce filename
-build n up
-
-save data jason
-
-react mdhun as input ghenar
-
-json input n out la dista te
